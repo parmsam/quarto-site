@@ -1,5 +1,6 @@
 ---
 title: "About me"
+page-layout: full
 ---
 
 This is a Quarto website.
