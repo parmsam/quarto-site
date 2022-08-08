@@ -2,12 +2,19 @@ project:
   type: website
 
 website:
-  title: "mysite"
+  title: "Sam Parmar"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: About me
+      - projects.qmd
+      - href: https://parmsam.medium.com/
+        text: Blog
+  search: 
+    location: navbar
+    type: overlay
+    copy-button: true
+  favicon: images/bread-astro.png
 
 format:
   html:

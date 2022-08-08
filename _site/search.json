@@ -2,7 +2,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "mysite",
+    "title": "About me",
     "section": "",
     "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "List projects here."
   }
 ]
