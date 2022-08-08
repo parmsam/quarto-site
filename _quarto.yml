@@ -14,11 +14,13 @@ website:
     location: navbar
     type: overlay
     copy-button: true
-  favicon: images/bread-astro.png
+  favicon: images/glasses.ico
 
 format:
   html:
-    theme: litera
+    theme: 
+      light: litera
+      dark: [litera, theme-dark.scss]
     css: styles.css
     toc: true
 
