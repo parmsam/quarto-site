@@ -9,5 +9,5 @@ execute:
 graph TD
 A{Data Scientist} 
 B((Gamer))
-C([Comics fan])
+C([Comics fan])   
 ```
