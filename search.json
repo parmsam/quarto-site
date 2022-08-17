@@ -11,13 +11,6 @@
     "href": "index.html",
     "title": "About me",
     "section": "",
-    "text": "graph TD\nB([Gamer])\nB1((PC))\nB2((PS5))\nB --> B1\nB --> B2\nC([Comics nerd])"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
+    "text": "R programming\nGaming\nComics"
   }
 ]
