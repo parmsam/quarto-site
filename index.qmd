@@ -3,11 +3,13 @@ title: "About me"
 page-layout: full
 execute:
   echo: false
+toc: true
 ---
 
-```{mermaid}
-graph TD
-A{Data Scientist} 
-B((Gamer))
-C([Comics fan])   
-```
+Data Scientist with extensive background in data analysis seeking to improve health of people around the world with critical thinking, problem solving, and collaboration.
+
+### Interests
+
+-   R programming
+-   Gaming
+-   Comics
