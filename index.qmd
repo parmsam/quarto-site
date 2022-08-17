@@ -1,8 +1,13 @@
 ---
 title: "About me"
 page-layout: full
+execute:
+  echo: false
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+```{mermaid}
+graph TD
+A{Data Scientist} 
+B((Gamer))
+C([Comics fan])
+```

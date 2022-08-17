@@ -15,11 +15,23 @@ website:
     type: overlay
     copy-button: true
   favicon: images/glasses.ico
+  page-footer: 
+    left: "Created using [Quarto](https://quarto.org/docs/websites/)" 
+    right: 
+      - icon: github
+        href: https://github.com/parmsam
+      - icon: linkedin
+        href: https://www.linkedin.com/in/sam-parmar-/
+      - icon: medium
+        href: https://parmsam.medium.com/
+      - icon: twitter 
+        href: https://twitter.com/parmsam_
+        
 
 format:
   html:
     theme: 
-      light: litera
+      light: [litera, theme.scss]
       dark: [litera, theme-dark.scss]
     css: styles.css
     toc: true
