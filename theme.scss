@@ -1,9 +1,10 @@
 /*-- scss:defaults --*/
+$body-bg: white;
 
 /*-- scss:rules --*/
 //navbar brand font
 .navbar-dark .navbar-brand {
-  font-family: "Futura";
+  font-family: "Futura", "Roboto";
   font-size: $font-size-base * 1.4;
-  color: black;
+  color: white;
 }

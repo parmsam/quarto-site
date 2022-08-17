@@ -1,15 +1,21 @@
 ---
-title: "About me"
+title: "Sam Parmar"
 page-layout: full
 execute:
   echo: false
-toc: true
+toc: false
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/parmsam
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/sam-parmar-/
+    - icon: twitter 
+      text: Twitter
+      href: https://twitter.com/parmsam_
 ---
 
-Data Scientist with extensive background in data analysis seeking to improve health of people around the world with critical thinking, problem solving, and collaboration.
-
-### Interests
-
--   R programming
--   Gaming
--   Comics
+Welcome to my personal website! I'm a  data scientist seeking to improve health of people around the world with critical thinking, problem solving, and collaboration. When I'm not programming in R, I enjoy gaming and reading comics, while snuggling with my small dog.

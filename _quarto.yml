@@ -10,6 +10,8 @@ website:
       - projects.qmd
       - href: https://parmsam.medium.com/
         text: Blog
+    background: primary
+    border: true
   search: 
     location: navbar
     type: overlay
@@ -17,7 +19,7 @@ website:
   reader-mode: true
   favicon: images/glasses.ico
   page-footer: 
-    left: "Created using [Quarto](https://quarto.org/docs/websites/)" 
+    left: "Created using [Quarto](https://quarto.org/docs/websites/). Opinions are my own." 
     right: 
       - icon: github
         href: https://github.com/parmsam
@@ -32,8 +34,8 @@ website:
 format:
   html:
     theme: 
-      light: [litera, theme.scss]
-      dark: [litera, theme-dark.scss]
+      light: [Sandstone, theme.scss]
+      dark: [Sandstone, theme-dark.scss]
     css: styles.css
     toc: true
 
