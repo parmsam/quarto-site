@@ -5,7 +5,11 @@ execute:
   echo: false
 toc: false
 about:
-  template: jolla
+  id: hero-heading
+  template: solana
+  image-shape: rounded
+  image-width: 9em
+  image: images/about-image.png
   links:
     - icon: github
       text: Github
@@ -16,6 +20,16 @@ about:
     - icon: twitter 
       text: Twitter
       href: https://twitter.com/parmsam_
+    # - icon: check-square-fill
+    #   text: Projects
+    #   href: /projects.html
 ---
+:::{#hero-heading}
 
-Welcome to my personal website! I'm a  data scientist seeking to improve health of people around the world with critical thinking, problem solving, and collaboration. When I'm not programming in R, I enjoy gaming and reading comics, while snuggling with my small dog.
+Welcome to my personal website!
+
+I'm a **data scientist** seeking to improve health of people around the world with critical thinking, problem solving, and collaboration. When I'm not programming in R, I enjoy gaming and reading comics, while snuggling with my small dog.
+
+Here are my **[projects](/projects.html)** and my **[blog](https://parmsam.medium.com/)**. 
+
+:::
