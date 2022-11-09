@@ -29,6 +29,14 @@ a:visited {
   color: #4C85F1;
 }
 
-.navbar-dark {
-  background-color: #325d88;
+a:hover {
+    color: #75aadb;
+}
+
+div.quarto-about-solana .about-entity .about-link:hover {
+  color: #75aadb;
+}
+
+.nav-link:hover, .nav-link:focus {
+  color: #75aadb;
 }
