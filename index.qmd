@@ -28,7 +28,7 @@ about:
 
 Welcome to my personal website!
 
-I'm a **data scientist** seeking to improve health of people around the world with critical thinking, problem solving, and collaboration. When I'm not programming in R, I enjoy gaming and reading comics, while snuggling with my small dog.
+I'm a **data scientist** seeking to improve health of people around the world with critical thinking, problem solving, and collaboration. When I'm not programming in R, I enjoy gaming and reading comics, while snuggling with [my small dog](images/small-dog.png).
 
 Here are my **[projects](/projects.html)**, and here's my **[blog](https://parmsam.medium.com/)**. 
 
