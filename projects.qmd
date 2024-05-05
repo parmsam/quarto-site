@@ -11,7 +11,7 @@ Notification system (set of programs) built around a Raspberry Pi to notify a he
 
 ### [Interactivity with the deluxe cars dataset](https://github.com/parmsam/rstudio-table-contest-2021)
 
-Interactive web page that shows a table of the gtcars dataset from the gt package. The data shows expensive and fast cars from 2014 to 2017. The webpage serves as an example of the many capabilities of the reactable and crosstalk packages in combination. Created for 2021 Rstudio Table Contest.
+Interactive web page that shows a table of the gtcars dataset from the gt package. The data shows expensive and fast cars from 2014 to 2017. The webpage serves as an example of the many capabilities of the reactable and crosstalk packages in combination. Created for 2021 RStudio Table Contest.
 
 -   Webpage [here](https://parmsam.github.io/rstudio-table-contest-2021/rstudio-table-contest-2021-sam.html)
 
@@ -29,29 +29,11 @@ Interactive webpage created that shows COVID-19 Policy Orders data as of October
 
 -   Webpage [here](https://parmsam.github.io/rstudio-table-contest/Sam-s-Rstudio-Table-Contest-Submission.html)
 
-### [Prep4PrEP](https://github.com/parmsam/Prep4PrEP)
-
-Simple Shiny app (proof of concept) based on Greater than AIDS information response content from KFF. Aimed to quickly educate and inform people on PrEP via a custom UI.
-
--   Shiny app [here](https://parmsam.shinyapps.io/Prep4PrEP/)
-
 ### [COVID-19 Vaccine Dose Waste in USA](https://github.com/parmsam/covid19-vaccine-dose-waste)
 
 Set of plots examining COVID-19 vaccine dose waste in the USA. Data visualizations created using ggplot2.
 
 -   Summary available [here](https://github.com/parmsam/covid19-vaccine-dose-waste/blob/main/README.md)
-
-### [Multi-purpose Timer](https://github.com/parmsam/timer)
-
-Timer webpage for studying, exercising, or meditating. Created for personal use.
-
--   Webpage [here](https://parmsam.github.io/timer/)
-
-### [Indy HIV Test](https://github.com/parmsam/indy-hiv-test)
-
-Simple redesign of indyhivtest.com to better inform persons living in Indianapolis on where they can get tested for HIV.
-
--Webpage [here](https://parmsam.github.io/indy-hiv-test/)
 
 ### [Sam's COVID 19 Dashboard](https://github.com/parmsam/covid-19-dashboard)
 
