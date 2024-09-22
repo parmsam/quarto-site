@@ -1,5 +1,6 @@
 /*-- scss:defaults --*/
 $body-bg: white;
+$link-color: #75AADB;
 
 /*-- scss:rules --*/
 //navbar brand font
@@ -22,9 +23,6 @@ $body-bg: white;
   color: #1565c0;
 }
 
-a:link {
-  color: #325d88;
-}
 a:visited {
   color: #4C85F1;
 }
