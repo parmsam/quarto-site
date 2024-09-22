@@ -10,6 +10,8 @@ website:
       - projects.qmd
       - href: https://parmsam.medium.com/
         text: Blog
+      - href: https://parmsam.github.io/garden/
+        text: Garden
     background: primary
     border: true
   search: 
