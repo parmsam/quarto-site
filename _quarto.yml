@@ -12,6 +12,8 @@ website:
         text: Blog
       - href: https://parmsam.github.io/garden/
         text: Garden
+      - href: https://parmsam.github.io/bookshelf/
+        text: Bookshelf
     background: primary
     border: true
   search: 
