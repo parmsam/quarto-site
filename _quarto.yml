@@ -10,8 +10,8 @@ website:
       - projects.qmd
       - href: https://parmsam.medium.com/
         text: Blog
-      - href: https://parmsam.github.io/garden/
-        text: TIL
+      - href: https://parmsam.github.io/ril/
+        text: RIL
       - href: https://parmsam.github.io/bookshelf/
         text: Bookshelf
     background: primary
